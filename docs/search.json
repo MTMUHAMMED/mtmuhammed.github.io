@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "My Portfolio",
+    "section": "",
+    "text": "Analysis of Marital Status based on Age\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nOct 12, 2024\n\n\nMuhammed Tahir Muhammed\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nOct 9, 2024\n\n\nMuhammed Tahir Muhammed\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Muhammed Tahir Muhammed",
+    "section": "",
+    "text": "A result-driven Data Scientist with extensive experience in data analysis, machine learning, and disease mapping. Proficient in Python, R, and SQL, with a strong focus on spatiotemporal data analysis, geospatial data visualization, and predictive modelling. Adept at leveraging statistical methods and machine learning algorithms to extract actionable insights from complex datasets. Specializes in disease modelling, public health surveillance, and guiding evidence-based health interventions. Current a PhD student at Federal University of Technology, Akure (FUTA), Nigeria, Statistics department under the Biostatistics and Spatial Statistics research team."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Analysis of Marital Status based on Age",
+    "section": "",
+    "text": "This was an analysis using a sample of categorical variables from the General Social Survey (GSS). You can find the analysis here"
+  }
+]
