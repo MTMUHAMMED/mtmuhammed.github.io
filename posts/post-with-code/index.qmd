@@ -1,0 +1,11 @@
+---
+title: "Analysis of Marital Status based on Age"
+author: "Muhammed Tahir Muhammed"
+date: "2024-10-12"
+categories: [news, code, analysis]
+image: "sy_big_dream.jpg"
+---
+
+This was an analysis using a sample of categorical variables from the General Social Survey (GSS). You can find the analysis [here](https://mtmuhammed.github.io/Data_Horizon_System/){target="_blank"}
+
+

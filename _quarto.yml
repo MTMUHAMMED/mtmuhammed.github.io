@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "Muhammed Tahir Muhammed"
+  navbar:
+    left: 
+      - text: "Home"
+        file: index.qmd
+      - text: "Portfolio" 
+        file: portfolio.qmd
+      - text: "CV"
+        file: cv.qmd
+    right:
+      - icon: github
+        href: https://github.com/MTMUHAMMED
+   
+format:
+  html:
+    theme: solar
+    css: styles.css
+
+editor: visual
+

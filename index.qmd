@@ -1,0 +1,22 @@
+---
+title: "Muhammed Tahir Muhammed"
+image:  mtm_phd.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mtm8167631640
+
+    - icon: github
+      text: Github
+      href: https://github.com/MTMUHAMMED
+
+---
+A result-driven Data Scientist with extensive experience in data analysis, machine learning, and 
+disease mapping. Proficient in Python, R, and SQL, with a strong focus on spatiotemporal data 
+analysis, geospatial data visualization, and predictive modelling. Adept at leveraging statistical 
+methods and machine learning algorithms to extract actionable insights from complex datasets. 
+Specializes in disease modelling, public health surveillance, and guiding evidence-based health 
+interventions.
+Current a PhD student at Federal University of Technology, Akure (FUTA), Nigeria, Statistics department under the Biostatistics and Spatial Statistics research team. 
